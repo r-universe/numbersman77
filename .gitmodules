@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "OrdFacReg"]
+	path = OrdFacReg
+	url = https://github.com/cran/OrdFacReg
+[submodule "OrdMonReg"]
+	path = OrdMonReg
+	url = https://github.com/cran/OrdMonReg
 [submodule "bpp"]
 	path = bpp
 	url = https://github.com/cran/bpp
@@ -17,12 +23,6 @@
 [submodule "modehunt"]
 	path = modehunt
 	url = https://github.com/cran/modehunt
-[submodule "OrdFacReg"]
-	path = OrdFacReg
-	url = https://github.com/cran/OrdFacReg
-[submodule "OrdMonReg"]
-	path = OrdMonReg
-	url = https://github.com/cran/OrdMonReg
 [submodule "reporttools"]
 	path = reporttools
 	url = https://github.com/cran/reporttools
